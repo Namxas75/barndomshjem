@@ -1,0 +1,1142 @@
+{
+  "Sovev\u00e6relset": {
+    "0": {
+      "image": "IMG_5451.JPG", 
+      "link": "Gangen ved trappen", 
+      "description": "Badek\u00e5be bag d\u00f8ren"
+    }, 
+    "1": {
+      "image": "IMG_5453.JPG", 
+      "link": "", 
+      "description": "Reol, seng og postkort"
+    }, 
+    "2": {
+      "image": "IMG_5454.JPG", 
+      "link": "Altanen", 
+      "description": "Blik mod altanen."
+    }, 
+    "3": {
+      "image": "IMG_5455.JPG", 
+      "link": "", 
+      "description": "Kl\u00e6deskab"
+    }
+  }, 
+  "Gangen ved reol": {
+    "0": {
+      "image": "IMG_5431.JPG", 
+      "link": "", 
+      "description": "Gamle b\u00f8ger"
+    }, 
+    "1": {
+      "image": "IMG_5432.JPG", 
+      "link": "Benedictes kontor", 
+      "description": "Et blik ind i Benedictes kontor"
+    }, 
+    "2": {
+      "image": "IMG_5433.JPG", 
+      "link": "Troels' v\u00e6relse Vest", 
+      "description": "Troels V\u00e6relse"
+    }, 
+    "3": {
+      "image": "IMG_5434.JPG", 
+      "link": "Gangen ved loftsrum", 
+      "description": "Gangen"
+    }
+  }, 
+  "Benedictes kontor": {
+    "0": {
+      "image": "IMG_5435.JPG", 
+      "link": "", 
+      "description": "Benedictes skrivebord"
+    }, 
+    "1": {
+      "image": "IMG_5436.JPG", 
+      "link": "", 
+      "description": "Blik ud af vinduet"
+    }, 
+    "2": {
+      "image": "IMG_5437.JPG", 
+      "link": "", 
+      "description": "Reol og radiator"
+    }, 
+    "3": {
+      "image": "IMG_5438.JPG", 
+      "link": "Gangen ved reol", 
+      "description": "Blik tilbage mod gangen"
+    }
+  }, 
+  "Troels' v\u00e6relse \u00d8st": {
+    "0": {
+      "image": "IMG_5423.JPG", 
+      "description": "Andreas' guitar-etui og en flyttekasse"
+    }, 
+    "1": {
+      "image": "IMG_5424.JPG", 
+      "description": "Et blik ud af vinduet"
+    }, 
+    "2": {
+      "image": "IMG_5425.JPG", 
+      "description": "Seng med kul\u00f8rt dynebetr\u00e6k"
+    }, 
+    "3": {
+      "image": "IMG_5426.JPG", 
+      "link": "Troels' v\u00e6relse Vest", 
+      "description": "Skab og diverse effekter."
+    }
+  }, 
+  "Loftsrummet": {
+    "0": {
+      "image": "IMG_5443.JPG", 
+      "link": "", 
+      "description": "Gamle kufferter"
+    }, 
+    "1": {
+      "image": "IMG_5444.JPG", 
+      "link": "", 
+      "description": "Trappe op til loftet"
+    }, 
+    "2": {
+      "image": "IMG_5445.JPG", 
+      "link": "Gangen ved loftsrum", 
+      "description": "Eschers 'Relativitet'"
+    }, 
+    "3": {
+      "image": "IMG_5446.JPG", 
+      "link": "", 
+      "description": "Gammelt leget\u00f8j og skrivebordselementer"
+    }
+  }, 
+  "Troels' v\u00e6relse Vest": {
+    "0": {
+      "image": "IMG_5427.JPG", 
+      "link": "Gangen ved reol", 
+      "description": "Udsigt til gangen og en guitar-kasse"
+    }, 
+    "1": {
+      "image": "IMG_5428.JPG", 
+      "link": "Troels' v\u00e6relse \u00d8st", 
+      "description": "Semi-rodet v\u00e6relse"
+    }, 
+    "2": {
+      "image": "IMG_5429.JPG", 
+      "description": "Gamle billeder"
+    }, 
+    "3": {
+      "image": "IMG_5430.JPG", 
+      "description": "Skab - t\u00e6t p\u00e5"
+    }
+  }, 
+  "Altanen": {
+    "0": {
+      "image": "IMG_5456.JPG", 
+      "link": "Sovev\u00e6relset", 
+      "description": "Blik ind mod sovev\u00e6relset"
+    }, 
+    "1": {
+      "image": "IMG_5457.JPG", 
+      "link": "", 
+      "description": "Blik ned i haven. Man kan se lindestubben."
+    }, 
+    "2": {
+      "image": "IMG_5458.JPG", 
+      "link": "", 
+      "description": "Blik ud fra altanen. I baggrunden, skolen"
+    }, 
+    "3": {
+      "image": "IMG_5459.JPG", 
+      "link": "", 
+      "description": "Blik ud mod Pr\u00e6steg\u00e5rdsvej"
+    }
+  }, 
+  "Gangen ved loftsrum": {
+    "0": {
+      "image": "IMG_5439.JPG", 
+      "link": "Loftsrummet", 
+      "description": "D\u00f8ren ind til loftsrummet"
+    }, 
+    "1": {
+      "image": "IMG_5440.JPG", 
+      "link": "Gangen ved reol", 
+      "description": "Et blik mod Benedictes kontor og Troels' v\u00e6relse"
+    }, 
+    "2": {
+      "image": "IMG_5441.JPG", 
+      "link": "", 
+      "description": "Vandr\u00f8r og billedramme"
+    }, 
+    "3": {
+      "image": "IMG_5442.JPG", 
+      "link": "Gangen ved trappen", 
+      "description": "Gangen. Bagerst Andreas' v\u00e6relse"
+    }
+  }, 
+  "Gangen ved trappen": {
+    "0": {
+      "image": "IMG_5447.JPG", 
+      "link": "På trappen", 
+      "description": "Trappe som f\u00f8rer ned i stueetagen"
+    }, 
+    "1": {
+      "image": "IMG_5448.JPG", 
+      "link": "Gangen ved loftsrum", 
+      "description": "Gangen. Karens collage til h\u00f8jre."
+    }, 
+    "2": {
+      "image": "IMG_5449.JPG", 
+      "link": "Sovev\u00e6relset", 
+      "description": "Blik ind i sovev\u00e6relset"
+    }, 
+    "3": {
+      "image": "IMG_5450.JPG", 
+      "link": "Gangen ved badeværelset", 
+      "description": "Gangen - der h\u00e6nger en skjorte p\u00e5 mahogniskabet"
+    }
+  },
+  "Gæsteværelset Øst": {
+    "0": {
+      "image": "IMG_5460.JPG", 
+      "link": "Gangen ved badeværelset", 
+      "description": "Flyttekasse og bøjler, i baggrunden: badeværelset."
+    }, 
+    "1": {
+      "image": "IMG_5461.JPG", 
+      "link": "", 
+      "description": "Spejlskabet med indhold."
+    }, 
+    "2": {
+      "image": "IMG_5462.JPG", 
+      "link": "", 
+      "description": "Bøjler med tøj, skab og seng."
+    }, 
+    "3": {
+      "image": "IMG_5463.JPG", 
+      "link": "Gæsteværelset Vest", 
+      "description": "Senge, strygebræt, m.m."
+    }
+  },
+  "Gæsteværelset Vest": {
+    "0": {
+      "image": "IMG_5468.JPG", 
+      "link": "", 
+      "description": "Gamle bøger og strygebræt"
+    }, 
+    "1": {
+      "image": "IMG_5469.JPG", 
+      "link": "Gæsteværelset Øst", 
+      "description": "Spejskabet"
+    }, 
+    "2": {
+      "image": "IMG_5466.JPG", 
+      "link": "", 
+      "description": "Skab med hængende tøj."
+    }, 
+    "3": {
+      "image": "IMG_5471.JPG", 
+      "link": "", 
+      "description": "Vinduer og seng."
+    }
+  },
+  "Gangen ved badeværelset": {
+    "0": {
+      "image": "IMG_5472.JPG", 
+      "link": "Badeværelset", 
+      "description": "Badeværelset"
+    }, 
+    "1": {
+      "image": "IMG_5473.JPG", 
+      "link": "Gangen ved trappen", 
+      "description": "Blik mod gangen og trappen."
+    }, 
+    "2": {
+      "image": "IMG_5474.JPG", 
+      "link": "Gæsteværelset Øst", 
+      "description": "Blik ind mod gæsteværelset"
+    }, 
+    "3": {
+      "image": "IMG_5475.JPG", 
+      "link": "Andreas værelse Øst", 
+      "description": "Blik ind mod Andreas' gamle værelse."
+    }
+  },
+  "Andreas værelse Øst": {
+    "0": {
+      "image": "IMG_5476.JPG", 
+      "link": "", 
+      "description": "Seng med blåt patchwork-betræk."
+    }, 
+    "1": {
+      "image": "IMG_5477.JPG", 
+      "link": "Gangen ved badeværelset", 
+      "description": "Blik ind mod gangen"
+    }, 
+    "2": {
+      "image": "IMG_5478.JPG", 
+      "link": "", 
+      "description": "Dør/stol/plakat"
+    }, 
+    "3": {
+      "image": "IMG_5479.JPG", 
+      "link": "Andreas værelse Vest", 
+      "description": "Andreas værelse. Røde gardiner, motionscykel og vinduer med modlys"
+    }
+  },
+  "Andreas værelse Vest": {
+    "0": {
+      "image": "IMG_5480.JPG", 
+      "link": "", 
+      "description": "Stol/Seng/Reol - bedende hænder i reolen"
+    }, 
+    "1": {
+      "image": "IMG_5481.JPG", 
+      "link": "Andreas værelse Øst", 
+      "description": "Blik igennem Andreas' værelse tilbage mod gangen"
+    }, 
+    "2": {
+      "image": "IMG_5482.JPG", 
+      "link": "", 
+      "description": "To stole"
+    }, 
+    "3": {
+      "image": "IMG_5483.JPG", 
+      "link": "", 
+      "description": "motionscyklen tættere på"
+    }
+  },
+  "Badeværelset": {
+    "0": {
+      "image": "IMG_5484.JPG", 
+      "link": "", 
+      "description": "Blik gennem vindue ud mod gårdspladsen"
+    }, 
+    "1": {
+      "image": "IMG_5485.JPG", 
+      "link": "", 
+      "description": "Brusebadet"
+    }, 
+    "2": {
+      "image": "IMG_5486.JPG", 
+      "link": "Gangen ved badeværelset", 
+      "description": ""
+    }, 
+    "3": {
+      "image": "IMG_5487.JPG", 
+      "link": "", 
+      "description": "Håndvasken"
+    }
+  },
+  "På trappen": {
+    "0": {
+      "image": "IMG_5488.JPG", 
+      "link": "Repos'en Øst", 
+      "description": "Lerhøne i vinduet"
+    }, 
+    "1": {
+      "image": "IMG_5489.JPG", 
+      "link": "", 
+      "description": "Jazzplakat"
+    }, 
+    "2": {
+      "image": "IMG_5490.JPG", 
+      "link": "Gangen ved trappen", 
+      "description": "Blik op mod soveværelset"
+    }, 
+    "3": {
+      "image": "IMG_5491.JPG", 
+      "link": "", 
+      "description": "Blik over gelænderet"
+    }
+  },
+  "Repos'en Øst": {
+    "0": {
+      "image": "IMG_5492.JPG", 
+      "link": "", 
+      "description": "Blik gennem vinduet ud mod gårdspladsen"
+    }, 
+    "1": {
+      "image": "IMG_5493.JPG", 
+      "link": "", 
+      "description": "Hvid væg"
+    }, 
+    "2": {
+      "image": "IMG_5494.JPG", 
+      "link": "På trappen", 
+      "description": "blik op af trappen. Modlys"
+    }, 
+    "3": {
+      "image": "IMG_5495.JPG", 
+      "link": "Repos'en Vest", 
+      "description": "Kinesisk kalligraferet billede"
+    }
+  },
+  "Repos'en Vest": {
+    "0": {
+      "image": "IMG_5496.JPG", 
+      "link": "", 
+      "description": "Vindue med gardin."
+    }, 
+    "1": {
+      "image": "IMG_5497.JPG", 
+      "link": "Repos'en Øst", 
+      "description": "Væg og lidt gelænder."
+    }, 
+    "2": {
+      "image": "IMG_5498.JPG", 
+      "link": "Trappe ved entré", 
+      "description": "Blik ned mod entré og stueetagen"
+    }, 
+    "3": {
+      "image": "IMG_5499.JPG", 
+      "link": "Kinesisk plakat", 
+      "description": ""
+    }
+  },
+  "Trappe ved entré": {
+    "0": {
+      "image": "IMG_5500.JPG", 
+      "link": "Repos'en Vest", 
+      "description": "Blik mod repos og vindue. Lerhøne."
+    }, 
+    "1": {
+      "image": "IMG_5501.JPG", 
+      "link": "", 
+      "description": "Malet trappevæg og lakeret gelænder."
+    }, 
+    "2": {
+      "image": "IMG_5502.JPG", 
+      "link": "Entréen Øst", 
+      "description": "Blik mod entré og stue"
+    }, 
+    "3": {
+      "image": "IMG_5503.JPG", 
+      "link": "", 
+      "description": "Væg og trærulle til kinesisk billede"
+    }
+  },
+  "Entréen Øst": {
+    "0": {
+      "image": "IMG_5504.JPG", 
+      "link": "Trappe ved entré", 
+      "description": "Blik mod trappe. Turkisgrøn telefon."
+    }, 
+    "1": {
+      "image": "IMG_5505.JPG", 
+      "link": "Køkkenet ved kældertrappe", 
+      "description": "Blik ind i køkkenet."
+    }, 
+    "2": {
+      "image": "IMG_5506.JPG", 
+      "link": "Midterstuen Vest", 
+      "description": "Blik ind i midterstuen"
+    }, 
+    "3": {
+      "image": "IMG_5507.JPG", 
+      "link": "Entréen Vest", 
+      "description": "Overtøj og sko."
+    }
+  },
+  "Køkkenet ved kældertrappe": {
+    "0": {
+      "image": "IMG_5508.JPG", 
+      "link": "Kældertrappe øverst", 
+      "description": "Blik ned af kældertrappen"
+    }, 
+    "1": {
+      "image": "IMG_5509.JPG", 
+      "link": "Køkkenet ved opslagstavle", 
+      "description": "Køkkenet"
+    }, 
+    "2": {
+      "image": "IMG_5510.JPG", 
+      "link": "", 
+      "description": "Trævæg"
+    }, 
+    "3": {
+      "image": "IMG_5511.JPG", 
+      "link": "Entréen Øst", 
+      "description": "Mahogni spejl og kommode"
+    }
+  },
+  "Køkkenet ved opslagstavle": {
+    "0": {
+      "image": "IMG_5512.JPG", 
+      "link": "I køkkenet", 
+      "description": ""
+    }, 
+    "1": {
+      "image": "IMG_5513.JPG", 
+      "link": "Køkkenet ved folkestuen", 
+      "description": "Spisebord med tehætte"
+    }, 
+    "2": {
+      "image": "IMG_5514.JPG", 
+      "link": "", 
+      "description": "Opslagstavle"
+    }, 
+    "3": {
+      "image": "IMG_5515.JPG", 
+      "link": "Køkkenet ved kældertrappe", 
+      "description": "Blik mod entré"
+    }
+  },
+  "I køkkenet": {
+    "0": {
+      "image": "IMG_5516.JPG", 
+      "link": "", 
+      "description": "Her laves der mad"
+    }, 
+    "1": {
+      "image": "IMG_5517.JPG", 
+      "link": "", 
+      "description": "Blik over køkkenbordet"
+    }, 
+    "2": {
+      "image": "IMG_5518.JPG", 
+      "link": "Køkkenet ved opslagstavle", 
+      "description": "Opslagstavlen"
+    }, 
+    "3": {
+      "image": "IMG_5519.JPG", 
+      "link": "", 
+      "description": "Komfur"
+    }
+  },
+  "Køkkenet ved konfirmandstue-gang": {
+    "0": {
+      "image": "IMG_5520.JPG", 
+      "link": "Konfirmandstue-gang Syd", 
+      "description": "Blik gennem konfirmandstue-gangen"
+    }, 
+    "1": {
+      "image": "IMG_5521.JPG", 
+      "link": "", 
+      "description": "Køkkenbordet"
+    }, 
+    "2": {
+      "image": "IMG_5522.JPG", 
+      "link": "Køkkenet ved folkestuen", 
+      "description": "Blik ind mod folkestuen"
+    }, 
+    "3": {
+      "image": "IMG_5523.JPG", 
+      "link": "", 
+      "description": "Blik over køkkenbordet"
+    }
+  },
+  "Køkkenet ved folkestuen": {
+    "0": {
+      "image": "IMG_5524.JPG", 
+      "link": "Køkkenet ved konfirmandstue-gang", 
+      "description": "Spiseafdelingen af køkkenet"
+    }, 
+    "1": {
+      "image": "IMG_5525.JPG", 
+      "link": "", 
+      "description": "Blik ud af vinduet fra køkkenet"
+    }, 
+    "2": {
+      "image": "IMG_5526.JPG", 
+      "link": "Folkestuen Øst", 
+      "description": "Blik ind i folkestuen."
+    }, 
+    "3": {
+      "image": "IMG_5515.JPG", 
+      "link": "Køkkenet ved kældertrappe", 
+      "description": "Blik mod entre fra køkken (Billede er en kopi)."
+    }
+  },
+  "Folkestuen Øst": {
+    "0": {
+      "image": "IMG_5527.JPG", 
+      "link": "Køkkenet ved folkestuen", 
+      "description": "Blik mod køkken fra folkestuen"
+    }, 
+    "1": {
+      "image": "IMG_5528.JPG", 
+      "link": "", 
+      "description": "'Dyrehaven' og blå sofa"
+    }, 
+    "2": {
+      "image": "IMG_5529.JPG", 
+      "link": "", 
+      "description": "Mahogniskab og nips"
+    }, 
+    "3": {
+      "image": "IMG_5530.JPG", 
+      "link": "Folkestuen Vest", 
+      "description": "Blik mod midterstuen fra folkestuen"
+    }
+  },
+  "Folkestuen Vest": {
+    "0": {
+      "image": "IMG_5531.JPG", 
+      "link": "", 
+      "description": "Grøn sofa og skibs-billede"
+    }, 
+    "1": {
+      "image": "IMG_5532.JPG", 
+      "link": "Folkestuen Øst", 
+      "description": "Dyrehaven-billedet"
+    }, 
+    "2": {
+      "image": "IMG_5533.JPG", 
+      "link": "", 
+      "description": "Fjernsyn. Nips. Reol."
+    }, 
+    "3": {
+      "image": "IMG_5534.JPG", 
+      "link": "Midterstuen Vest", 
+      "description": "Blik ind i midterstuen"
+    }
+  },
+  "Flueburet": {
+    "0": {
+      "image": "IMG_5535.JPG", 
+      "link": "Midterstuen Vest", 
+      "description": "Blik ind i midterstuen"
+    }, 
+    "1": {
+      "image": "IMG_5536.JPG", 
+      "link": "", 
+      "description": "Sofa, lampe og blik ud til sommerhave."
+    }, 
+    "2": {
+      "image": "IMG_5537.JPG", 
+      "link": "", 
+      "description": "Havedør"
+    }, 
+    "3": {
+      "image": "IMG_5538.JPG", 
+      "link": "", 
+      "description": "Sofa, lampe og blik mod haven. Billede af Gram slot på væggen"
+    }
+  },
+  "Midterstuen Vest": {
+    "0": {
+      "image": "IMG_5539.JPG", 
+      "link": "Entréen Øst", 
+      "description": "Blik ind i entré"
+    }, 
+    "1": {
+      "image": "IMG_5540.JPG", 
+      "link": "Folkestuen Vest", 
+      "description": "Blik fra midterstuen ind mod folkestuen"
+    }, 
+    "2": {
+      "image": "IMG_5541.JPG", 
+      "link": "Flueburet", 
+      "description": "Blik ind mod flueburet. Til højre klaver af mærket Louis Zwicki"
+    }, 
+    "3": {
+      "image": "IMG_5542.JPG", 
+      "link": "Karnapstuen Øst", 
+      "description": "Blik fra midterstuen ind i karnapstuen"
+    }
+  },
+  "Karnapstuen Øst": {
+    "0": {
+      "image": "IMG_5543.JPG", 
+      "link": "Entréen Vest", 
+      "description": "Reol med stereo-anlæg, kobberstik og blomster-maleri"
+    }, 
+    "1": {
+      "image": "IMG_5544.JPG", 
+      "link": "Midterstuen Vest", 
+      "description": "Blik fra karnapstuen ind mod de to andre stuer"
+    }, 
+    "2": {
+      "image": "IMG_5545.JPG", 
+      "link": "", 
+      "description": "Emmys gamle torchiere"
+    }, 
+    "3": {
+      "image": "IMG_5546.JPG", 
+      "link": "Karnapstuen Vest", 
+      "description": "Blik i gennem karnapstuen"
+    }
+  },
+  "Karnapstuen Vest": {
+    "0": {
+      "image": "IMG_5547.JPG", 
+      "link": "Kontoret ved skrivebord", 
+      "description": "Blik ind i kontoret fra karnapstuen"
+    }, 
+    "1": {
+      "image": "IMG_5548.JPG", 
+      "link": "Karnapstuen Øst", 
+      "description": "Blik gennem alle stuer"
+    }, 
+    "2": {
+      "image": "IMG_5549.JPG", 
+      "link": "", 
+      "description": "'Jule'-'Uro'"
+    }, 
+    "3": {
+      "image": "IMG_5550.JPG", 
+      "link": "", 
+      "description": "Blik ud fra karnappen"
+    }
+  },
+  "Kontoret ved skrivebord": {
+    "0": {
+      "image": "IMG_5551.JPG", 
+      "link": "Kontoret Nord", 
+      "description": "Skrivebord med papirer"
+    }, 
+    "1": {
+      "image": "IMG_5552.JPG", 
+      "link": "", 
+      "description": "Mange bøger"
+    }, 
+    "2": {
+      "image": "IMG_5553.JPG", 
+      "link": "Karnapstuen Vest", 
+      "description": "Blik ind i karnapstuen fra kontoret"
+    }, 
+    "3": {
+      "image": "IMG_5554.JPG", 
+      "link": "", 
+      "description": "Blik ud af vinduet fra kontoret."
+    }
+  },
+  "Kontoret Nord": {
+    "0": {
+      "image": "IMG_5555.JPG", 
+      "link": "", 
+      "description": "Bøger!"
+    }, 
+    "1": {
+      "image": "IMG_5559.JPG", 
+      "link": "For-entréen", 
+      "description": "Skrivebord med computer"
+    }, 
+    "2": {
+      "image": "IMG_5556.JPG", 
+      "link": "Kontoret ved skrivebord", 
+      "description": "Skrivebord med computer"
+    },
+    "3": {
+      "image": "IMG_5557.JPG", 
+      "link": "", 
+      "description": "Blik mod ekstra skrivebord med bøger"
+    } 
+  },
+  "For-entréen": {
+    "0": {
+      "image": "IMG_5558.JPG", 
+      "link": "", 
+      "description": "Blik ud mod gårdspladsen"
+    }, 
+    "1": {
+      "image": "IMG_5559.JPG", 
+      "link": "", 
+      "description": "Overtøj"
+    }, 
+    "2": {
+      "image": "IMG_5560.JPG", 
+      "link": "Entréen Vest", 
+      "description": "Blik ind gennem entréen ind til karnapstuen"
+    }, 
+    "3": {
+      "image": "IMG_5561.JPG", 
+      "link": "Kontoret Nord", 
+      "description": "Blik ind mod kontoret"
+    }
+  },
+  "Entréen Vest": {
+    "0": {
+      "image": "IMG_5562.JPG", 
+      "link": "For-entréen", 
+      "description": "Blik ud mod gårdspladsen gennem for-entréen"
+    }, 
+    "1": {
+      "image": "IMG_5563.JPG", 
+      "link": "Entréen Øst", 
+      "description": "Blik ind i gennm entré og køkken"
+    }, 
+    "2": {
+      "image": "IMG_5564.JPG", 
+      "link": "Karnapstuen Øst", 
+      "description": "Blik ind i karnapstuen"
+    }, 
+    "3": {
+      "image": "IMG_5565.JPG", 
+      "link": "", 
+      "description": "Overtøj"
+    }
+  },
+  "Konfirmandstue-gang Syd": {
+    "0": {
+      "image": "IMG_5566.JPG", 
+      "link": "Konfirmandstue-gang ved vaskerummet", 
+      "description": "Blik gennem konfirmandstue-gangen"
+    }, 
+    "1": {
+      "image": "IMG_5567.JPG", 
+      "link": "Flaskerummet", 
+      "description": "Blik ind mod flaskerummet"
+    }, 
+    "2": {
+      "image": "IMG_5568.JPG", 
+      "link": "Køkkenet ved konfirmandstue-gang", 
+      "description": "Blik mod ind mod køkkenet fra konfirmandstue-gangen"
+    }, 
+    "3": {
+      "image": "IMG_5569.JPG", 
+      "link": "", 
+      "description": "Dør ud til gårdspladsen"
+    }
+  },
+  "Flaskerummet": {
+    "0": {
+      "image": "IMG_5570.JPG", 
+      "link": "", 
+      "description": "Porcelæn og stegeso"
+    }, 
+    "1": {
+      "image": "IMG_5571.JPG", 
+      "link": "", 
+      "description": "Porcelæn og fade"
+    }, 
+    "2": {
+      "image": "IMG_5572.JPG", 
+      "link": "", 
+      "description": "Glas og beholdere"
+    }, 
+    "3": {
+      "image": "IMG_5573.JPG", 
+      "link": "Konfirmandstue-gang Syd", 
+      "description": "Blik tilbage mod gang og dør ud mod gårdspladsen"
+    }
+  },
+  "Konfirmandstue-gang ved vaskerummet": {
+    "0": {
+      "image": "IMG_5574.JPG", 
+      "link": "Konfirmand-entréen", 
+      "description": "Blik ned mod konfirmand-entréen"
+    }, 
+    "1": {
+      "image": "IMG_5575.JPG", 
+      "link": "Vaskerummet", 
+      "description": "Blik ind mod vaskerummet og videre mod fliserne i haven"
+    }, 
+    "2": {
+      "image": "IMG_5576.JPG", 
+      "link": "Konfirmandstue-gang Syd", 
+      "description": "Blik mod køkken - dadaistisk billede til venstre på væggen"
+    }, 
+    "3": {
+      "image": "IMG_5577.JPG", 
+      "link": "", 
+      "description": "Blik ud mod gårdspladsen"
+    }
+  },
+  "Vaskerummet": {
+    "0": {
+      "image": "IMG_5578.JPG", 
+      "link": "", 
+      "description": "Værktøjskasse. Forskellige ting og sager."
+    }, 
+    "1": {
+      "image": "IMG_5579.JPG", 
+      "link": "", 
+      "description": "Blik ud gennem døren, mod haven"
+    }, 
+    "2": {
+      "image": "IMG_5580.JPG", 
+      "link": "", 
+      "description": "Flag og brunt tæppe. Hynder."
+    }, 
+    "3": {
+      "image": "IMG_5581.JPG", 
+      "link": "Konfirmandstue-gang ved vaskerummet", 
+      "description": "Blik gennm gang og vindue"
+    }
+  },
+  "Konfirmand-entréen": {
+    "0": {
+      "image": "IMG_5582.JPG", 
+      "link": "", 
+      "description": "Sol-indfald på stol og flettede bøjler"
+    }, 
+    "1": {
+      "image": "IMG_5583.JPG", 
+      "link": "Konfirmand-entréen Øst", 
+      "description": "Blik mod badeværelset. Plakat med kongerækken"
+    }, 
+    "2": {
+      "image": "IMG_5584.JPG", 
+      "link": "Konfirmandstue-gang ved vaskerummet", 
+      "description": "Blik gennem gang, ind mod køkkenet"
+    }, 
+    "3": {
+      "image": "IMG_5585.JPG", 
+      "link": "", 
+      "description": "Blik ud mod gårdspladsen"
+    }
+  },
+  "Konfirmand-entréen Øst": {
+    "0": {
+      "image": "IMG_5586.JPG", 
+      "link": "Konfirmand-stuen ved kateder", 
+      "description": "blik ind i Konfirmand-stuen"
+    }, 
+    "1": {
+      "image": "IMG_5587.JPG", 
+      "link": "", 
+      "description": "Blik ind i konfirmand-badeværelset"
+    }, 
+    "2": {
+      "image": "IMG_5588.JPG", 
+      "link": "", 
+      "description": "Garderobe"
+    }, 
+    "3": {
+      "image": "IMG_5589.JPG", 
+      "link": "Konfirmand-entréen", 
+      "description": "Blik mod døren i konfirmand-entréen"
+    }
+  },
+  "Konfirmand-stuen ved kateder": {
+    "0": {
+      "image": "IMG_5590.JPG", 
+      "link": "", 
+      "description": "Blik ind i konfirmand-stuen"
+    }, 
+    "1": {
+      "image": "IMG_5591.JPG", 
+      "link": "Konfirmand-stuen ved opslagstavle", 
+      "description": "Blik ned gennem konfirmand-stuen ud mod haven"
+    }, 
+    "2": {
+      "image": "IMG_5592.JPG", 
+      "link": "Konfirmand-entréen Øst", 
+      "description": "Blik fra Konfirmand-stuen mod gangen"
+    }, 
+    "3": {
+      "image": "IMG_5593.JPG", 
+      "link": "", 
+      "description": "Bøger i konfirmand-stuen"
+    }
+  },
+  "Konfirmand-stuen ved opslagstavle": {
+    "0": {
+      "image": "IMG_5594.JPG", 
+      "link": "", 
+      "description": "Blik ud mod kompostbunken uden for konfirmandstuen"
+    }, 
+    "1": {
+      "image": "IMG_5595.JPG", 
+      "link": "", 
+      "description": "Andreas' afrikanske skulptur står i vindueskarmen"
+    }, 
+    "2": {
+      "image": "IMG_5596.JPG", 
+      "link": "", 
+      "description": "Opslagstavle med materialer til koonfirmandundervisningen"
+    }, 
+    "3": {
+      "image": "IMG_5597.JPG", 
+      "link": "Konfirmand-stuen ved kateder", 
+      "description": "Blik gennem konfirmandstuen"
+    }
+  },
+  "Konfirmand-stuen Øst": {
+    "0": {
+      "image": "IMG_5598.JPG", 
+      "link": "", 
+      "description": "Træfigurer i vindueskarm"
+    }, 
+    "1": {
+      "image": "IMG_5599.JPG", 
+      "link": "", 
+      "description": "Blik ud gennem vinduet mod forårs-have"
+    }, 
+    "2": {
+      "image": "IMG_5600.JPG", 
+      "link": "", 
+      "description": "Opslagstavle"
+    }, 
+    "3": {
+      "image": "IMG_5601.JPG", 
+      "link": "Konfirmand-stuen ved opslagstavle", 
+      "description": "Hele konfirmandstuen"
+    }
+  },
+  "Kældertrappe øverst": {
+    "0": {
+      "image": "IMG_5602.JPG", 
+      "link": "Kælder-repos Øst", 
+      "description": "Blik ned af det øverste af kældertrappen"
+    }, 
+    "1": {
+      "image": "IMG_5603.JPG", 
+      "link": "", 
+      "description": "Bar væg"
+    }, 
+    "2": {
+      "image": "IMG_5604.JPG", 
+      "link": "Køkkenet ved kældertrappe", 
+      "description": "Lyskontakt med hjerte-klistermærke"
+    }, 
+    "3": {
+      "image": "IMG_5605.JPG", 
+      "link": "", 
+      "description": "Dørhåndtag"
+    }
+  },
+  "Kælder-repos Øst": {
+    "0": {
+      "image": "IMG_5606.JPG", 
+      "link": "", 
+      "description": "Blik gennem vindue til gårdspladsen"
+    }, 
+    "1": {
+      "image": "IMG_5607.JPG", 
+      "link": "", 
+      "description": "Bordplade"
+    }, 
+    "2": {
+      "image": "IMG_5608.JPG", 
+      "link": "Kældertrappe øverst", 
+      "description": "Blik op mod køkkenet. Gummistøvler"
+    }, 
+    "3": {
+      "image": "IMG_5609.JPG", 
+      "link": "Kælder-repos Vest", 
+      "description": "Gasmåler og åbent vindue"
+    }
+  },
+  "Kælder-repos Vest": {
+    "0": {
+      "image": "IMG_5610.JPG", 
+      "link": "", 
+      "description": "Åbent vindue mod gårdspladsen"
+    }, 
+    "1": {
+      "image": "IMG_5611.JPG", 
+      "link": "Kælder-repos Øst", 
+      "description": "Bordplade og planker"
+    }, 
+    "2": {
+      "image": "IMG_5612.JPG", 
+      "link": "Kældertrappe nederst", 
+      "description": "Vandrør og tank"
+    }, 
+    "3": {
+      "image": "IMG_5613.JPG", 
+      "link": "", 
+      "description": "Gasrør og blik ind mod side-kælderen"
+    }
+  },
+  "Kældertrappe nederst": {
+    "0": {
+      "image": "IMG_5614.JPG", 
+      "link": "Kælder-repos Vest", 
+      "description": "Blik op mod kælder repos-en"
+    }, 
+    "1": {
+      "image": "IMG_5615.JPG", 
+      "link": "", 
+      "description": "Bar væg"
+    }, 
+    "2": {
+      "image": "IMG_5616.JPG", 
+      "link": "Kælder ved vandtank", 
+      "description": "Vandtank og rør"
+    }, 
+    "3": {
+      "image": "IMG_5617.JPG", 
+      "link": "", 
+      "description": "Blik mod side-kælderen"
+    }
+  },
+  "Kælder ved vandtank": {
+    "0": {
+      "image": "IMG_5618.JPG", 
+      "link": "Kældertrappe nederst", 
+      "description": "Blik op af den nederste kældertrappe"
+    }, 
+    "1": {
+      "image": "IMG_5619.JPG", 
+      "link": "Tørrekælderen", 
+      "description": "Blik ind mod tørrekælderen"
+    }, 
+    "2": {
+      "image": "IMG_5620.JPG", 
+      "link": "", 
+      "description": "Varme-installationer"
+    }, 
+    "3": {
+      "image": "IMG_5621.JPG", 
+      "link": "Side-kælderen", 
+      "description": "Blik ind mod side-kælderen"
+    }
+  },
+  "Side-kælderen": {
+    "0": {
+      "image": "IMG_5622.JPG", 
+      "link": "Side-kælderen Nord", 
+      "description": "Flyttekasser"
+    }, 
+    "1": {
+      "image": "IMG_5623.JPG", 
+      "link": "Kælder ved vandtank", 
+      "description": "Blik mod tørrekælderen"
+    }, 
+    "2": {
+      "image": "IMG_5624.JPG", 
+      "link": "", 
+      "description": "Gasfyret"
+    }, 
+    "3": {
+      "image": "IMG_5625.JPG", 
+      "link": "", 
+      "description": "Radiator og rør"
+    }
+  },
+  "Side-kælderen Nord": {
+    "0": {
+      "image": "IMG_5626.JPG", 
+      "link": "", 
+      "description": "Væg og stol"
+    }, 
+    "1": {
+      "image": "IMG_5627.JPG", 
+      "link": "", 
+      "description": "Flyttekasser"
+    }, 
+    "2": {
+      "image": "IMG_5628.JPG", 
+      "link": "Side-kælderen", 
+      "description": "Varme-installationerne"
+    }, 
+    "3": {
+      "image": "IMG_5629.JPG", 
+      "link": "", 
+      "description": "Bar væg"
+    }
+  },
+  "Tørrekælderen": {
+    "0": {
+      "image": "IMG_5630.JPG", 
+      "link": "", 
+      "description": "Tøj til tørre"
+    }, 
+    "1": {
+      "image": "IMG_5631.JPG", 
+      "link": "", 
+      "description": "Tøj der tørrer"
+    }, 
+    "2": {
+      "image": "IMG_5632.JPG", 
+      "link": "", 
+      "description": "Læsepult"
+    }, 
+    "3": {
+      "image": "IMG_5633.JPG", 
+      "link": "Kælder ved vandtank", 
+      "description": "Blik ud af tørrekælderen"
+    }
+  }
+
+}

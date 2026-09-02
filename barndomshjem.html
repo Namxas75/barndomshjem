@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<title>Præstegården</title>
+	<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<!--[if IE]>
+	    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+	<![endif]-->
+</head>
+<style>
+	.display {
+		width:100%;
+	}
+	.standard-height {
+		height: 62px;
+	}
+
+	.room-header,
+	.description {
+		text-align: center;
+	}
+
+</style>
+<body>
+	<div class="container-fluid">
+		<br>
+		<div class="row standard-height">
+			<div class="col-xs-offset-5 col-xs-2">
+				<a class="arrow forward btn btn-info btn-sm center-block"data-direction=0 href="/link">&uarr;</a>
+				
+			</div>
+
+		</div>
+
+		<div class="row">
+
+			<div class="col-xs-2 col-xs-offset-1">
+				<a class="arrow left btn btn-info btn-sm center-block " data-direction=-1 href="/left">&larr;</a>
+
+
+			</div>
+
+
+			<div class="col-xs-6">
+				<img class="display img-fluid" src="/images/IMG_5560.JPG">
+				<h2 class="room-header">
+					For-entréen
+				</h2>	
+				<p class="description">Blik ind gennem entréen til karnapstuen</p>
+
+
+
+
+
+			</div>
+			<div class="col-xs-2">
+				<a class="arrow right btn btn-info btn-sm center-block"data-direction=1 href="/right">&rarr;</a>
+			</div>
+			
+		</div>
+
+
+	</div>
+
+
+	<script src="/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script src="/js/jquery-ui.js"></script>
+	<script src="/js/script.js"></script>
+</body>
+</html>
